@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aditya892001
+- 👋 Hi, I’m Aditya Remella
 - 👀 I’m interested in VLSI Design and Verification
 - 🌱 I’m currently learning Verilog HDL, SystemVerilog, UVM, FPGA, CMOS
 - 💞️ I’m looking to collaborate on RTL Coding, Testbench and Testcase creation
